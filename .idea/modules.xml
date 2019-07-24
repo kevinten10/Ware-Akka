@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ware-Akka.iml" filepath="$PROJECT_DIR$/.idea/modules/Ware-Akka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ware-Akka-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Ware-Akka-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka-vavr/akka-vavr.iml" filepath="$PROJECT_DIR$/akka-vavr/akka-vavr.iml" />
+    </modules>
+  </component>
+</project>
