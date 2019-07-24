@@ -1,12 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88892328-0d14-460b-bc30-d7f7c60ebeac" name="Default Changelist" comment="" />
+    <list default="true" id="88892328-0d14-460b-bc30-d7f7c60ebeac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/.mvn/extensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/.mvn/jgitver.config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-java/src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Greeter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/HelloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Main2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_12_2_5_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_12_2_5_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Ware-Akka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Ware-Akka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-vavr/akka-vavr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/akka-vavr/akka-vavr.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akka-vavr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/akka-vavr/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
     <ignored path="$PROJECT_DIR$/akka-vavr/target/" />
+    <ignored path="$PROJECT_DIR$/akka-sample-main-java/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,19 +62,81 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/build.properties">
+        <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="168">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
+        <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/COPYING">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Main2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="462">
+                <caret line="22" selection-start-line="22" selection-end-line="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/Greeter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -44,72 +144,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/akka-vavr/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/akka-vavr/src/main/java/vavr/MazeRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/akka-vavr/src/main/java/vavr/Coords.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/akka-vavr/src/main/java/vavr/Master.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/akka-vavr/src/main/java/vavr/Minion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/akka-vavr/src/main/java/vavr/Maze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="252">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/akka-vavr/pom.xml" />
         <option value="$PROJECT_DIR$/akka-vavr/src/main/java/vavr/Maze.java" />
         <option value="$PROJECT_DIR$/akka-vavr/src/main/java/vavr/Minion.java" />
+        <option value="$PROJECT_DIR$/akka-vavr/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Greeter.scala" />
+        <option value="$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Main2.scala" />
+        <option value="$PROJECT_DIR$/akka-sample-main-scala/build.sbt" />
+        <option value="$PROJECT_DIR$/akka-sample-main-java/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -125,6 +183,9 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -142,60 +203,88 @@
             <path>
               <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
-              <item name="akka-vavr" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
-              <item name="akka-vavr" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
-              <item name="akka-vavr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
-              <item name="akka-vavr" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
-              <item name="akka-vavr" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vavr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-sample-main-scala" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-vavr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
+              <item name="akka-vavr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ware-Akka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ware-Akka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +297,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/akka-vavr/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -222,6 +311,12 @@
     <property name="project.structure.side.proportion" value="0.54038996" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\shihaowang\Desktop\Ware-Akka" />
+      <recent name="D:\Users\shihaowang\Desktop\Ware-Akka\akka-vavr\src\main\java" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -234,7 +329,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sample.hello.Main" />
+      <module name="Ware-Akka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sample.hello.Main2" />
+      <module name="Ware-Akka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MazeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vavr.MazeRunner" />
       <module name="akka-vavr" />
@@ -250,6 +371,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MazeRunner" />
       </list>
     </recent_temporary>
@@ -297,15 +420,30 @@
       <option name="presentableId" value="Default" />
       <updated>1563967912457</updated>
       <workItem from="1563967914218" duration="3314000" />
-      <workItem from="1563973360859" duration="596000" />
+      <workItem from="1563973360859" duration="1766000" />
     </task>
+    <task id="LOCAL-00001" summary="Init : init akka">
+      <created>1563974114314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563974114314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init : init akka-vavr">
+      <created>1563974129275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563974129275</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3910000" />
+    <option name="totallyTimeSpent" value="5080000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
@@ -315,14 +453,15 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" />
+      <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="bottom" id="SBT Console" order="8" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
@@ -349,6 +488,37 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init : init akka" />
+    <MESSAGE value="Init : init akka-vavr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init : init akka-vavr" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -361,20 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/akka-vavr/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -397,15 +553,132 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/akka-vavr/src/main/java/vavr/MazeRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="399">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/akka-vavr/src/main/java/vavr/Minion.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/srcs/akka-actor_2.11-2.5.23-sources.jar!/akka/actor/Actor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/HelloWorld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Greeter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-vavr/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Main2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/src/main/scala/sample/hello/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/COPYING">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="462">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-scala/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/Greeter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akka-sample-main-java/src/main/java/sample/hello/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>

@@ -6,16 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="akka-sample-main-java" />
         <module name="akka-vavr" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="akka-sample-main-java" target="1.8" />
       <module name="akka-vavr" target="1.8" />
       <module name="Ware-Akka" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="akka-sample-main-java" options="-Xlint" />
       <module name="akka-vavr" options="-Xlint" />
     </option>
   </component>

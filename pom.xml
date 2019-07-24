@@ -10,7 +10,17 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>akka-vavr</module>
+        <module>akka-sample-main-java</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.typesafe.akka</groupId>
+            <artifactId>akka-actor_2.12</artifactId>
+            <version>2.5.23</version>
+        </dependency>
+    </dependencies>
+
 
 
 </project>
