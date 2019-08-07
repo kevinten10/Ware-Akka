@@ -4,7 +4,7 @@
 		module="ware-akka$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190724210317"
+		publication="20190807202102"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
