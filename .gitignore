@@ -2,3 +2,5 @@
 .idea
 project/target/
 target
+akka-sample-main-java/akka-sample-main-java.iml
+akka-vavr/akka-vavr.iml
